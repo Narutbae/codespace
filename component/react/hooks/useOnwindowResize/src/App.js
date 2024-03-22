@@ -1,5 +1,5 @@
 import useOnWindowResize from "../hook/useOnWindowResize";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   useOnWindowResize(() =>

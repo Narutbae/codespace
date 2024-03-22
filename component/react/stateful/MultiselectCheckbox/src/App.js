@@ -1,5 +1,5 @@
 import MultiselectCheckbox from "../component/MultiselectCheckbox";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const options = [{ label: "Item One" }, { label: "Item Two" }];

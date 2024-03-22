@@ -1,5 +1,5 @@
 import useSessionStorage from "../hook/useSessionStorage";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const [name, setName] = useSessionStorage("name", "John");

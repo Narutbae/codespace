@@ -1,5 +1,5 @@
 import useUpdate from "../hooks/useUpdate";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const update = useUpdate();

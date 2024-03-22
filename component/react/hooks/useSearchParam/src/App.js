@@ -1,5 +1,5 @@
 import useSearchParam from "../hook/useSearchParam";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const post = useSearchParam("post");

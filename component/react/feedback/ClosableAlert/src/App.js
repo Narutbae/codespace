@@ -1,5 +1,5 @@
 import Alert from "../component/Alert";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

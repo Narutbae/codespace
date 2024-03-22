@@ -1,6 +1,6 @@
 import { useState, useRef } from "react";
 import useMutationObserver from "../hook/useMutationObserver";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const mutationRef = useRef();

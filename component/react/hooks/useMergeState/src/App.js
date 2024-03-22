@@ -1,5 +1,5 @@
 import useMergeState from "../hook/useMergeState";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const [data, setData] = useMergeState({ name: "John", age: 20 });

@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import useIntersectionObserver from "../hook/useIntersectionObserver";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const ref = useRef();

@@ -1,5 +1,5 @@
 import useLocalStorage from "../hook/useLocalStorage";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const [name, setName] = useLocalStorage("name", "John");

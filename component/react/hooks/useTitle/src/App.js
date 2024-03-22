@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Alert from "../component/Alert";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const [alertOpen, setAlertOpen] = useState(false);

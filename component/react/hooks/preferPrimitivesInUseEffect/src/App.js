@@ -1,5 +1,5 @@
 import CartItem from "../component/CartItem";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const firstItem = {

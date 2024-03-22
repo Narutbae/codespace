@@ -1,5 +1,5 @@
 import Select from "../component/Select";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const choices = [

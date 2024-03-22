@@ -1,6 +1,6 @@
 import MyComponent from "../component/MyComponent";
 import OtherComponent from "../component/OtherComponent";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

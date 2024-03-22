@@ -1,5 +1,5 @@
 import ErrorButton from "../component/ErrorButton";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

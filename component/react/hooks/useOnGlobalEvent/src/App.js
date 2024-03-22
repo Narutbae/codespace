@@ -1,5 +1,5 @@
 import useOnGlobalEvent from "../hook/useOnGlobalEvent";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   useOnGlobalEvent("mousemove", (e) => {

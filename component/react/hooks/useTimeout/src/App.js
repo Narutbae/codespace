@@ -1,5 +1,5 @@
 import OneSecondTimer from "../component/OneSecondTimer";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

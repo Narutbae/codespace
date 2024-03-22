@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import useDelayedState from "../hook/useDelayedState";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const [branches, setBranches] = useState([]);

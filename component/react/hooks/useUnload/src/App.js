@@ -1,5 +1,5 @@
 import useUnload from "../hook/useUnload";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   useUnload((e) => {

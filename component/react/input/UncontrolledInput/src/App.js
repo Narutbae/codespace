@@ -1,5 +1,5 @@
 import UncontrolledInput from "../component/UncontrolledInput";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

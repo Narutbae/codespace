@@ -1,5 +1,5 @@
 import useMap from "../hook/useMap";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const [map, { set, remove, clear }] = useMap([["apples", 10]]);

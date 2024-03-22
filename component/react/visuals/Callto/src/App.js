@@ -1,5 +1,5 @@
 import Callto from "../component/Callto";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

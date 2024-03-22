@@ -1,5 +1,5 @@
 import Mounter from "../component/Mounter";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

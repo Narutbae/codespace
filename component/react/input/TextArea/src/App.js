@@ -1,5 +1,5 @@
 import TextArea from "../component/TextArea";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

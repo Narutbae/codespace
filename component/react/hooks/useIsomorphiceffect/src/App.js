@@ -1,5 +1,5 @@
 import useIsomorphicEffect from "../hook/useIsomorphicEffect";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   useIsomorphicEffect(() => {

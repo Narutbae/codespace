@@ -1,6 +1,6 @@
 import MyComponent from "../component/MyComponent";
 import { useState } from "react";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const [name, setName] = useState("my-value");

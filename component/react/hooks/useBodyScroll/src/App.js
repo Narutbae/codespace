@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Modal from "../component/Modal";
 
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const [modalOpen, setModalOpen] = useState(false);

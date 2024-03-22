@@ -1,5 +1,5 @@
 import StatusIndicator from "../component/StatusIndicator";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

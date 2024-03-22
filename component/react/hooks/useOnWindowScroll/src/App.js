@@ -1,5 +1,5 @@
 import useOnWindowScroll from "../hook/useOnWindowScroll";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   useOnWindowScroll(() => console.log(`scroll Y: ${window.pageYOffset}`));

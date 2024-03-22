@@ -1,6 +1,6 @@
 import { useState } from "react";
 import useEffectOnce from "../hook/useEffectonce";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const [clicked, setClicked] = useState(false);

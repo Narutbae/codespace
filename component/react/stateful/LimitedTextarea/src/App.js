@@ -1,5 +1,5 @@
 import LimitedTextarea from "../component/LimitedTextarea";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

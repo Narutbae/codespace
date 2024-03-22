@@ -1,5 +1,5 @@
 import useSet from "../hook/useSet";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const [set, { add, remove, clear }] = useSet(new Set(["apples"]));

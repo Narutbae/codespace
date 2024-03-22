@@ -1,6 +1,6 @@
 import useScript from "../hook/useScript";
 import Child from "../component/Child";
-import "./styles.css";
+import "./style.css";
 
 const script =
   "data:text/plain;charset=utf-8;base64,KGZ1bmN0aW9uKCl7IGNvbnNvbGUubG9nKCdIZWxsbycpIH0pKCk7";

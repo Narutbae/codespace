@@ -1,5 +1,5 @@
 import Carousel from "../component/Carousel";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

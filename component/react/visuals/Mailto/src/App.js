@@ -1,5 +1,5 @@
 import Mailto from "../component/Mailto";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

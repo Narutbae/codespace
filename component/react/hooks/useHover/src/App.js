@@ -1,5 +1,5 @@
 import useHover from "../hook/useHover";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const [hoverRef, isHovering] = useHover();

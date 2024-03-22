@@ -1,6 +1,6 @@
 import Accordion from "../component/Accordion";
 import AccordionItem from "../component/AccordionItem";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

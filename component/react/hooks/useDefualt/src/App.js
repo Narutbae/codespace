@@ -1,5 +1,5 @@
 import UserCard from "../component/UserCard";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

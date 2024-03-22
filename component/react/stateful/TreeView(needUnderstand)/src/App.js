@@ -1,5 +1,5 @@
 import TreeView from "../component/TreeView";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const data = {

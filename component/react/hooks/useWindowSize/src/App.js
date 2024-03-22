@@ -1,5 +1,5 @@
 import useWindowSize from "../hooks/useWindowSize";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const { width, height } = useWindowSize();

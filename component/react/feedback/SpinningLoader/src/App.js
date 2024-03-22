@@ -1,5 +1,5 @@
 import Loader from "../component/Loader";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   return (

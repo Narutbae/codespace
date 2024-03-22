@@ -1,6 +1,6 @@
 import useEventListener from "../hook/useEventListener";
 import { useState, useCallback } from "react";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const [coords, setCoords] = useState({ x: 0, y: 0 });

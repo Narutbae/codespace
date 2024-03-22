@@ -1,6 +1,6 @@
 import useHash from "../hook/useHash";
 import { useEffect } from "react";
-import "./styles.css";
+import "./style.css";
 
 export default function App() {
   const [hash, setHash] = useHash();
