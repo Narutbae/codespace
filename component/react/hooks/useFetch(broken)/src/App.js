@@ -1,5 +1,6 @@
-import CompName from "../component/CompName"
 import React from 'react';
+import CompName from "../component/CompName"
+import React from 'react';;
 import './style.css';
 
 export default function App() {

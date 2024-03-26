@@ -1,3 +1,4 @@
+import React from 'react';
 import MappedTable from "../component/MappedTable";
 import './style.css';
 
@@ -7,7 +8,7 @@ export default function App() {
     { name: "Adam", surname: "Smith", gender: "male" }
   ];
   const propertyNames = ["name", "surname", "age"];
-  
+
   return (
     <div className="App">
       <h1>Object table view</h1>

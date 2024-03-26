@@ -1,3 +1,4 @@
+import React from 'react';
 import LimitedWordTextarea from "../component/LimitedWordTextarea";
 import "./style.css";
 

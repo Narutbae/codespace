@@ -1,3 +1,4 @@
+import React from 'react';
 import RippleButton from "../component/RippleButton";
 import "./style.css";
 

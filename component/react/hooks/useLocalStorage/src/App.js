@@ -1,3 +1,4 @@
+import React from 'react';
 import useLocalStorage from "../hook/useLocalStorage";
 import "./style.css";
 
